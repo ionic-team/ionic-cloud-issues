@@ -1,1 +1,1 @@
-A place to submit issues, suggestions, or general feedback on the Ionic Cloud.
+A place to submit issues, suggestions, or general feedback on Ionic Cloud.
